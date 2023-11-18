@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jepthoniq/lMl10l/",
+  "repository": "https://github.com/Source-Ze/UP_UO/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -62,7 +62,7 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/jepthoniq/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Source-Ze/heroku-buildpack-ffmpeg-latest"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
