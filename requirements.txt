@@ -74,6 +74,8 @@ wand
 ujson
 yt-dlp
 youtube_dl
+textwrap
+datetime
 randomstuff.py
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/alexmercerind/youtube-search-python
